@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     } else {
         $order_id = uniqid("ORD");
         $redirect_url = "https://instaboost-59k0.onrender.com/thankyou.php?order_id=$order_id";
-        $customer_mobile = "9876543210"; // ✅ Use valid 10-digit Indian mobile
+        $customer_mobile = "8938851521"; // ✅ Use valid 10-digit Indian mobile
         $remark1 = "Add Fund for User: $user_id";
         $remark2 = "Instaboost Wallet Recharge";
 
